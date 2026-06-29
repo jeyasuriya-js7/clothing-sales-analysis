@@ -1,5 +1,13 @@
 # Clothing Sales Analysis
 
+## Dashboard Preview
+
+### Dashboard Page 1
+![Dashboard Page 1](Dashboard%20Page1.png)
+
+### Dashboard Page 2
+![Dashboard Page 2](Dashboard%20Page2.png)
+
 ## Project Overview
 
 This project analyzes a clothing sales dataset to uncover business
