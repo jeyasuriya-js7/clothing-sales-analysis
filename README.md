@@ -3,7 +3,7 @@
 ## Dashboard Preview
 
 ### Dashboard Page 1
-![Dashboard Page 1](Dashboard%20Page1.png)
+![Dashboard Page 1](Dashboard Page1.png)
 
 ### Dashboard Page 2
 ![Dashboard Page 2](Dashboard%20Page2.png)
